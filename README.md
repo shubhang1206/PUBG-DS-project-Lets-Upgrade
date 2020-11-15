@@ -6,6 +6,7 @@ of "The Blue Circle." This competition is not an official or affiliated PUBG sit
 possible through the PUBG Developer API.
 You are given over 65,000 games' worth of anonymized player data, split into training and testing sets,
 and asked to predict final placement from final in-game stats and initial player ratings
+
 Tasks:-
 1. Read the dataset.
 2. Check the datatype of all the columns.
